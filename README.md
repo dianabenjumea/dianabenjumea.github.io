@@ -1,1 +1,74 @@
-# dianabenjumea.github.io
+# Diana Carolina Benjumea Hernández
+
+<div>
+  <img src="FOTO 4.jpg" alt="Profile Image" width="150" align="left">  
+</div>
+
+**PhD Computer Science Student**    
+**The University of Manchester**     
+**Email: diana.benjumeahernandez@postgrad.manchester.ac.uk**  
+
+
+## About Me
+
+I have a diverse background, holding a Bachelor's degree in Aeronautical Engineering, an MSc in Data Science and Analytics, and currently pursuing a PhD in Computer Science. My professional journey has led me to gain experience in various industries, including aviation safety, underground mining maintenance, reliability, and software development.
+
+
+## Publications
+
+- Benjumea, D. C., Laniado, H., & Combita, O. (2023). Analytical model to monitor the oil conditions on the main
+ components of mining dumpers. Results in Engineering, 100934. [Link](https://www.sciencedirect.com/science/article/pii/S2590123023000610)
+
+A good reference for engineers who intend to understand oil data and promote the development of lifetime models of components. The paper studies lifetime expectation of the main components of dumpers considering oil data. These lifetimes were analyzed by using the Cox proportional hazard model and a new robust version of the same model that is the main contribution of this work. The results show that robust version introduced has better performance than Cox classical model.
+
+
+## PhD Thesis
+
+**Autonomous Robotic Rules Based Reasoning System for use in UK Nuclear Environments**\
+In the UK, the nuclear regulatory regime requires a safety claim to be argued and substantiated for any activity. However, existing techniques for assuring the behaviour of autonomous robotics systems, that are efficient to use regularly, are not robust enough for use in nuclear environments. The proposed research aims to develop a methodology for creating and verifying Safety Instrumented Functions (SIFs) using rule-based reasoning system technology that is well-understood and amenable to mathematical verification. The methodology will involve the use of tools to capture safety requirements expressed in natural language and convert these into expressions into temporal logic, and then the use of model-checking technology to verify the SIF against these requirements. The SIF will then interact with the Autonomous Robotic system to constrain its behaviour to a safe envelope. This will be validated with a demonstration based on a use case of an inspection task with safety requirements based on avoiding collisions between the robot and its environment.
+
+Supervisors: [Dr. Louise Dennis](https://personalpages.manchester.ac.uk/staff/louise.dennis/) and [Dr. Christopher Anderson](https://www.linkedin.com/in/dr-christopher-anderson-3baa5715/?originalSubdomain=uk) and [Dr. Marie Farrell](https://mariefarrell.github.io/)
+
+
+## Other projects
+
+**Data Scientist • CAF – Development Bank of Latin America**: Participation as a Data Scientist in Manos a la Data project - Colombia: CAF’s project to promote the use of analytical methodologies and tools in LATAM by public sector entities.
+
+“Development and evaluation of mathematical and epidemiological models that support decision-making in response to the emergency due to SARS- Cov-2 and other causative agents of ARI in Colombia using Data Analytics and Machine Learning” in collaboration with ALIANZA CAOBA, GIDITIC EAFIT research group and the Development Bank of Latin America (CAF).
+
+
+# Work experience
+
+_Mar 2022 - Present_\
+**Software Developer • Steady Technologies, Inc • New York, USA**\
+Responsible to participate in the development of data pipelines and aggregation systems, including building of necessary data scrapers and integrations with a variety of service providers, vendors, and partners via API and ensuring that code adheres to data science and data engineering best practices.
+
+_Oct 2021 – Mar 2022_\
+**Chief Reliability Officer • Gran Colombia Gold Corp • Segovia, Colombia**\
+As Head of Reliability in Gran Colombia Gold Colombia's Office, I was responsible to assure the optimum performance of the mining company through Computerized Maintenance Management System (CMMS).
+
+_Oct 2020 – Oct 2021_\
+**Maintenance Analyst • Gran Colombia Gold Corp • Segovia, Colombia**\
+Analyzing schedule, manpower, training and task impact on the Line Maintenance workload at the system and station level and leadind project teams on various workload/schedule topics, including workload manpower standards
+
+_Dec 2018 – Oct 2020_\
+**Safety Management System Analyst • Viva Air • Rionegro, Colombia**\
+Responsible for managing the flight data analysis and risk management program for the airline Viva Air in Colombia.
+
+_Jul 2018 – Dec 2018_\
+**Safety Management System Intern • Viva Air • Rionegro, Colombia**\
+Carrying out, write and implement risk assessments – Implement safety policies and procedures as well as documentation updated to comply with legislation.
+
+
+## Education
+
+**PhD Computer Science** Jul 2023 - Present. The University of Manchester. Manchester, UK.
+
+**MSc Data Science and Analytics** Jan 2020 - Dec 2022. Universidad EAFIT. Medellín, Colombia.
+
+**BEng Aeronautical Engineering** Jan 2014 - Apr 2019. Universidad Pontificia Bolivariana. Medellín, Colombia.
+
+
+## Get in Touch
+
+I'm always excited to connect with fellow developers, collaborate on exciting projects, and discuss all things related to web development, open source, and technology. You can find me on [LinkedIn](https://www.linkedin.com/in/diana-carolina-benjumea-hernandez-64b87313b/) for professional networking or reach out to me via [email](diana.benjumeahernandez@postgrad.manchester.ac.uk).
