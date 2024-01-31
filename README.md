@@ -38,8 +38,13 @@ Supervisors: [Dr. Louise Dennis](https://personalpages.manchester.ac.uk/staff/lo
 
 
 # Work experience
+_Oct 2023 - Present_\
+**Graduate Teaching Assistant (GTA) • The University of Manchester • Manchester, UK**
+- Engaged in assisting with courses such as Algorithms and Data Structures, Software Engineering, Data Science, and Automated Reasoning and Verification.
+- Providing support and guidance to students in understanding and performing tasks related to the course.
+- Evaluating and grading student work, including assignments, projects, and exams, to provide constructive feedback on their performance.
 
-_Mar 2022 - Present_\
+_Mar 2022 - Jul 2023_\
 **Software Developer • Steady Technologies, Inc • New York, USA**\
 Responsible to participate in the development of data pipelines and aggregation systems, including building of necessary data scrapers and integrations with a variety of service providers, vendors, and partners via API and ensuring that code adheres to data science and data engineering best practices.
 
@@ -63,10 +68,17 @@ Carrying out, write and implement risk assessments – Implement safety policies
 ## Education
 
 **PhD Computer Science** Jul 2023 - Present. The University of Manchester. Manchester, UK.
+- Engaged in a research project focused on developing an autonomous safety system for operations in UK nuclear environments, ensuring compliance with the UK nuclear regulatory regime.
+- An active member of both the Autonomy and Verification Network and the Autonomy and Verification Research Group.
 
 **MSc Data Science and Analytics** Jan 2020 - Dec 2022. Universidad EAFIT. Medellín, Colombia.
+- Final year project: Analytical model to monitor the oil conditions on the main components of mining dumpers.
+- Using the Cox proportional hazard model and an enhanced robust version of the same model, I studied the lifetime expectation of the primary components of dumpers, considering oil data.
+- The robust version introduced shows better performance compared to the Cox classical model, serving as a valuable reference for engineers seeking to understand oil data and advance the development of lifetime models for components.
 
 **BEng Aeronautical Engineering** Jan 2014 - Apr 2019. Universidad Pontificia Bolivariana. Medellín, Colombia.
+- Six-month internship involved designing the flight data analysis program at Viva Air, a Colombian low-cost airline.
+- Final year project: Conceptual and preliminary design of a commercial aircraft.
 
 
 ## Get in Touch
