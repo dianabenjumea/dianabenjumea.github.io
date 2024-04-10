@@ -84,3 +84,9 @@ Carrying out, write and implement risk assessments – Implement safety policies
 ## Get in Touch
 
 I'm always excited to connect with fellow developers, collaborate on exciting projects, and discuss all things related to web development, open source, and technology. You can find me on [LinkedIn](https://www.linkedin.com/in/diana-carolina-benjumea-hernandez-64b87313b/) for professional networking or reach out to me via [email](diana.benjumeahernandez@postgrad.manchester.ac.uk).
+
+## Current work
+**Formalising Safety Requirements for Robotic Autonomous Systems in Highly Regulated Domains**
+Paper under review 
+[Link to aditional material]()
+
