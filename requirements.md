@@ -1,3 +1,6 @@
 layout: page
 title: "Requirements Identification and Allocation"
-permalink: /RE/requirements
+permalink: /RE/requirements/
+
+
+
