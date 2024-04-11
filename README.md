@@ -89,4 +89,5 @@ I'm always excited to connect with fellow developers, collaborate on exciting pr
 **Formalising Safety Requirements for Robotic Autonomous Systems in Highly Regulated Domains**
 - Paper under review 
 - [Link to aditional material](https://dianabenjumea.github.io/RE/requirements/)
+- [Link to aditional material](https://dianabenjumea.github.io/RE/requirementsTable/)
 
