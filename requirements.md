@@ -13,12 +13,8 @@ permalink: /RE/requirements/
 <div class="mermaid">graph TD
 
 Description["<b>AN AUTONOMOUS ROBOT IS TASKED WITH PERFORMING REGULAR INSPECTIONS OF A NUCLEAR ROOM, WITH THE PRIMARY OBJECTIVE BEING THE CAPTURE OF HIGH-QUALITY IMAGES OF FIVE SPECIFIC LOCATIONS FOR SUBSEQUENT ANALYSIS AND ASSESSMENT. </b>"];
+
 H1(("<b>H1</b> Collisions with physical obstacles<br/> damaging the robot, equipment, and<br/> dispersing radioactive material."));
-
-H2(("<b>H2</b> Running out of battery could<br/> leave the robot stranded in<br/> a hazardous area, posing risks<br/> to retrieval personnel and<br/> causing environmental radiation<br/> exposure."));
-H3(("<b>H3</b> Power supply issues may<br/> result in reduced operational<br/> time, potentially stranding the<br/> robot in hazardous areas."));
-SF2{"<b>SF2</b> PREVENT RUNING<br/> OUT OF POWER."};
-
 SF1{"<b>SF1</b> PREVENT COLLISION."};
 R1("<b>R1</b> The robot shall avoid<br/> physical obstacles.");
 R1.1("<b>R1.1</b> The robot shall maintain<br/> a safe distance from obstacles.");
@@ -34,16 +30,38 @@ R1.8("<b>R1.8</b> An obstacle shall not be in the same<br/> location as an inspe
 R1.9("<b>R1.9</b> The calculated path to the destination<br/> shall not include a location with an<br/> obstacle.");
 R1.10("<b>R1.10</b> The robot shall not go faster than X<br/> kmph.");
 
-R2("<b>R2</b>The robot shall maintain<br/> a sufficient power level<br/> throughout the mission.");
-R2.1("<b>R2.1</b>The robot shall monitor<br/> its battery level and<br/> activate a recharge process<br/> when it falls below a<br/> predefined threshold.");
-R2.3("<b>R2.3</b>The robot shall update<br/> its estimated battery<br/> charge every m minutes<br/> based on both the<br/> current battery sensor<br/> and the robot's history<br/> of activity.");
-R2.4("<b>R2.4</b>The robot shall return to<br/> the initial position if<br/> battery levels become<br/> critically low.");
-R2.6("<b>R2.6</b>The charging station shall<br/> be selected as the next<br/> destination whenever the recharge<br/> flag is set to true.");
-R2.7("<b>R2.7</b>The battery monitor shall<br/> show the battery charge 5%<br/> lower than currently estimated.");
-R2.8("<b>R2.8</b>The interface recharge output<br/> shall be set to true<br/> when the current battery<br/> charge is lower than the<br/> battery needed to reach the<br/> charging station from the<br/> current position plus 5%<br/> battery charge.");
-R2.9("<b>R2.9</b>Once at the charging station,<br/> the robot shall remain<br/> there until the battery reaches<br/> full charge.");
-R2.10("<b>R2.10</b>Each step in the plan<br/> shall not use more than<br/> 1/n amounts of battery.");
-        
+
+H2(("<b>H2</b> Running out of battery could<br/> leave the robot stranded in<br/> a hazardous area, posing risks<br/> to retrieval personnel and<br/> causing environmental radiation<br/> exposure."));
+H3(("<b>H3</b> Power supply issues may<br/> result in reduced operational<br/> time, potentially stranding the<br/> robot in hazardous areas."));
+SF2{"<b>SF2</b> PREVENT RUNING<br/> OUT OF POWER."};
+R2("<b>R2</b> The robot shall maintain<br/> a sufficient power level<br/> throughout the mission.");
+R2.1("<b>R2.1</b> The robot shall monitor<br/> its battery level and<br/> activate a recharge process<br/> when it falls below a<br/> predefined threshold.");
+R2.2("<b>R2.2</b> The robot shall update<br/> its estimated battery<br/> charge every m minutes<br/> based on both the<br/> current battery sensor<br/> and the robot's history<br/> of activity.");
+R2.3("<b>R2.3</b> The robot shall return to<br/> the initial position if<br/> battery levels become<br/> critically low.");
+R2.4("<b>R2.4</b> The charging station shall<br/> be selected as the next<br/> destination whenever the recharge<br/> flag is set to true.");
+R2.5("<b>R2.5</b> The battery monitor shall<br/> show the battery charge 5%<br/> lower than currently estimated.");
+R2.6("<b>R2.6</b> The interface recharge output<br/> shall be set to true<br/> when the current battery<br/> charge is lower than the<br/> battery needed to reach the<br/> charging station from the<br/> current position plus 5%<br/> battery charge.");
+R2.7("<b>R2.7</b> Once at the charging station,<br/> the robot shall remain<br/> there until the battery reaches<br/> full charge.");
+R2.8("<b>R2.8</b> Each step in the plan<br/> shall not use more than<br/> 1/n amounts of battery.");
+
+
+H4("<b>H4</b> Radioactive contamination from particles adhering to surfaces, equipment, and personnel, leading to contamination spread and an increased risk of radiation exposure."));
+H5("<b>H5</b> Contaminated equipment and personnel due to robot manual retrieval in hazardous environments."));
+SF3{"<b>SF3</b> PREVENT THE ROBOT FROM BEING EXPOSED TO EXCESSIVELY HIGH LEVELS OF RADIATION."};
+
+R3("<b>R3</b> The robot and personnel shall be protected from harmful radiation exposure");
+R3.1("<b>R3.1</b> The robot shall continually monitor radiation levels in its environment.");
+R3.2("<b>R3.2</b> Initial robot position shall not be a location with out-of-range radiation levels");
+R3.3("<b>R3.3</b> The radiation monitor subsystem shall ensure that the initial robot measurement is equal to the manual set level.");
+R3.4("<b>R3.4</b> The radiation monitor subsystem shall ensure that the current position is not a position with out-of-range radiation levels.");
+R3.4.1("<b>R3.4.1</b> If radiation levels have exceeded, the robot shall go to the exit immediately.");
+R3.5("<b>R3.5</b> Room radiation levels shall be correctly identified.");
+R3.6("<b>R3.6</b> The radiation level at the inspection points shall be within acceptable ranges.");
+R3.7("<b>R3.7</b> The calculated path to the destination shall not include a location with out-of-range radiation levels.");
+R3.8("<b>R3.8</b> Radiation levels shall be under R.");
+R3.9("<b>R3.9</b> The robot shall perform regular checks on its equipment's performance and return to the initial position if anomalies are detected.");
+R3.10("<b>R3.10</b> The robot shall undergo thorough decontamination procedures before and after each mission.");
+
 
 Description --> H1;
 H1 --> SF1;
@@ -67,13 +85,31 @@ H2 --> SF2;
 H3 --> SF2;
 SF2 --> R2;
 R2 --> R2.1;
+R2 --> R2.2;
 R2 --> R2.3;
 R2 --> R2.4;
+R2 --> R2.5;
 R2 --> R2.6;
 R2 --> R2.7;
 R2 --> R2.8;
-R2 --> R2.9;
-R2 --> R2.10;
+
+
+Description --> H4;
+Description --> H5; 
+H4 --> SF3;
+H5 --> SF3;
+SF3 --> R3;
+R3 --> R3.1;
+R3 --> R3.2;
+R3 --> R3.3;
+R3 --> R3.4;
+R3.4 --> R3.4.1;
+R3 --> R3.5;
+R3 --> R3.6;
+R3 --> R3.7;
+R3 --> R3.8;
+R3 --> R3.9;
+R3 --> R3.10;
 
 </div>
 
