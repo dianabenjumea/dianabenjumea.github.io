@@ -32,7 +32,7 @@ This document consolidates the identification and allocation of mitigation requi
 <th>Group</th>
 <th>System</th>
 
-</thead>
+
 <tbody>
 <tr>
 <td rowspan="20"><b>H1</b>. Collisions with physical obstacles damaging the robot, equipment, and dispersing radioactive material.</td>
