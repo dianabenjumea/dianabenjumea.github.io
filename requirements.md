@@ -62,6 +62,17 @@ R3.9("<b>R3.9</b> The robot shall perform<br/>regular checks on its<br/>equipmen
 R3.10("<b>R3.10</b> The robot shall undergo<br/>thorough decontamination<br/>procedures before and<br/>after each mission.");
 
 
+H6(("<b>H6</b> Operational failure in the<br/>robot's navigation and inspection<br/>tasks could result in wrong<br/>navigation, and equipment damage."));
+SF4{"<b>SF4</b> ENSURE ALL REACHABLE<br/>INSPECTION POINTS ARE VISITED."};
+R4("<b>R4</b> The robot shall visit<br/>all reachable inspection points.");
+R4.1("<b>R4.1</b> All inspection points shall<br/>be correctly identified.");
+R4.2("<b>R4.2</b> A valid inspection point shall<br/>not be at the same location<br/>as a valid obstacle.");
+R4.3("<b>R4.3</b> Visited inspection points shall<br/>be removed from the list of<br/>destinations to visit.");
+R4.4("<b>R4.4</b> The closest inspection point<br/>that was not visited before shall<br/>be the current goal when the<br/>recharge flag is false.");
+R4.5("<b>R4.5</b> The shortest path to the<br/>current goal shall be selected.");
+R4.6("<b>R4.6</b> The interface subsystem shall<br/>set the Goal flag to true only<br/>when the current robot position<br/>is equal to the current goal<br/>position.");
+
+
 
 Description --> H1;
 H1 --> SF1;
@@ -110,6 +121,16 @@ R3 --> R3.7;
 R3 --> R3.8;
 R3 --> R3.9;
 R3 --> R3.10;
+
+Description --> H6;
+H6 --> SF4;
+SF4 --> R4;
+R4 --> R4.1;
+R4 --> R4.2;
+R4 --> R4.3;
+R4 --> R4.4;
+R4 --> R4.5;
+R4 --> R4.6;
 
 </div>
 
