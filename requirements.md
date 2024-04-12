@@ -45,22 +45,22 @@ R2.7("<b>R2.7</b> Once at the charging station,<br/> the robot shall remain<br/>
 R2.8("<b>R2.8</b> Each step in the plan<br/> shall not use more than<br/> 1/n amounts of battery.");
 
 
-H4("<b>H4</b> Radioactive contamination from particles adhering to surfaces, equipment, and personnel, leading to contamination spread and an increased risk of radiation exposure."));
-H5("<b>H5</b> Contaminated equipment and personnel due to robot manual retrieval in hazardous environments."));
-SF3{"<b>SF3</b> PREVENT THE ROBOT FROM BEING EXPOSED TO EXCESSIVELY HIGH LEVELS OF RADIATION."};
+H4(("<b>H4</b> Radioactive contamination from<br/> particles adhering to surfaces,<br/> equipment,and personnel, leading to<br/>contamination spread and an increased<br/>risk of radiation exposure."));
+H5(("<b>H5</b> Contaminated equipment and<br/> personnel due to robot manual<br/> retrieval in hazardous environments."));
+SF3{"<b>SF3</b> PREVENT THE ROBOT FROM<br/>BEING EXPOSED TO EXCESSIVELY<br/>HIGH LEVELS OF RADIATION."};
+R3("<b>R3</b> The robot and personnel<br/>shall be protected from<br/>harmful radiation exposure.");
+R3.1("<b>R3.1</b> The robot shall continually<br/>monitor radiation levels<br/>in its environment.");
+R3.2("<b>R3.2</b> Initial robot position shall<br/>not be a location with<br/>out-of-range radiation levels.");
+R3.3("<b>R3.3</b> The radiation monitor subsystem<br/>shall ensure that the initial<br/>robot measurement is equal<br/>to the manual set level.");
+R3.4("<b>R3.4</b> The radiation monitor subsystem<br/>shall ensure that the current<br/>position is not a position<br/>with out-of-range radiation<br/>levels.");
+R3.4.1("<b>R3.4.1</b> If radiation levels have<br/> exceeded, the robot shall<br/> go tothe exit immediately.");
+R3.5("<b>R3.5</b> Room radiation levels shall<br/>be correctly identified.");
+R3.6("<b>R3.6</b> The radiation level at<br/>the inspection points<br/>shall be within acceptable<br/>ranges.");
+R3.7("<b>R3.7</b> The calculated path to<br/>the destination shall not<br/>include a location with<br/>out-of-range radiation<br/>levels.");
+R3.8("<b>R3.8</b> Radiation levels<br/>shall be under R.");
+R3.9("<b>R3.9</b> The robot shall perform<br/>regular checks on its<br/>equipment's performance and<br/>return to the initial<br/>position if anomalies<br/>are detected.");
+R3.10("<b>R3.10</b> The robot shall undergo<br/>thorough decontamination<br/>procedures before and<br/>after each mission.");
 
-R3("<b>R3</b> The robot and personnel shall be protected from harmful radiation exposure");
-R3.1("<b>R3.1</b> The robot shall continually monitor radiation levels in its environment.");
-R3.2("<b>R3.2</b> Initial robot position shall not be a location with out-of-range radiation levels");
-R3.3("<b>R3.3</b> The radiation monitor subsystem shall ensure that the initial robot measurement is equal to the manual set level.");
-R3.4("<b>R3.4</b> The radiation monitor subsystem shall ensure that the current position is not a position with out-of-range radiation levels.");
-R3.4.1("<b>R3.4.1</b> If radiation levels have exceeded, the robot shall go to the exit immediately.");
-R3.5("<b>R3.5</b> Room radiation levels shall be correctly identified.");
-R3.6("<b>R3.6</b> The radiation level at the inspection points shall be within acceptable ranges.");
-R3.7("<b>R3.7</b> The calculated path to the destination shall not include a location with out-of-range radiation levels.");
-R3.8("<b>R3.8</b> Radiation levels shall be under R.");
-R3.9("<b>R3.9</b> The robot shall perform regular checks on its equipment's performance and return to the initial position if anomalies are detected.");
-R3.10("<b>R3.10</b> The robot shall undergo thorough decontamination procedures before and after each mission.");
 
 
 Description --> H1;
