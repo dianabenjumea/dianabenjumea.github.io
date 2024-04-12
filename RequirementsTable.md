@@ -6,7 +6,7 @@ permalink: /RE/requirementsTable/
 
 # Formalising Safety Requirements for Robotic Autonomous Systems in Highly Regulated Domains
 
-This document consolidates the identification and allocation of mitigation requirements for hazards associated with a hypothetical operation involving routine inspections in a nuclear facility — a critical scenario for the operational integrity of nuclear plants. The operation involves regular inspections in a space containing radioactive material, with the primary objective of capturing high-quality images for analysis and assessment. This document includes parent and child requirements, grouping associated requirements, and the allocation of these requirements to systems, the rules-based reasoning **Safety System** (SS) and the **Safety Related Autonomous System** (SRAS).
+This document consolidates the identification and allocation of mitigation requirements for hazards associated with a hypothetical operation involving routine inspections in a nuclear facility — a critical scenario for the operational integrity of nuclear plants. The operation involves regular inspections in a space containing radioactive material, with the primary objective of capturing high-quality images for analysis and assessment. This includes parent and child requirements, grouping associated requirements, and the allocation of these requirements to systems, the rules-based reasoning **Safety System** (SS) and the **Safety Related Autonomous System** (SRAS).
 
 **Note.** The acronyms used for the requirement groups are:
 
