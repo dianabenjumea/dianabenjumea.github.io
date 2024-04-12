@@ -8,23 +8,7 @@ permalink: /RE/requirementsTable/
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>REQUIREMENTS IDENTIFICATION AND ALLOCATION</title>
-<style>
-table {
-  border-collapse: collapse;
-  width: 100%;
-}
 
-th, td {
-  border: 1px solid black;
-  padding: 8px;
-  text-align: left;
-}
-
-th {
-  background-color: #f2f2f2;
-}
-</style>
 </head>
 <body>
 <table>
@@ -249,5 +233,5 @@ th {
 <td><b>R4.6</b> The interface subsystem shall set the Goal flag to true only when the current robot position is equal to the current goal position.</td>
 <td>OR</td>
 <td>SRAS</td>
-</tr>
+
 
