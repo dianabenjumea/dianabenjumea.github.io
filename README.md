@@ -13,6 +13,20 @@
 
 I have a diverse background, holding a Bachelor's degree in Aeronautical Engineering, an MSc in Data Science and Analytics, and currently pursuing a PhD in Computer Science. My professional journey has led me to gain experience in various industries, including aviation safety, underground mining maintenance, reliability, and software development.
 
+## Topics of Interest
+- Robotic Autonomous Systems
+- Software Verification
+- Software Architectures
+- Safety-critical Computer Systems
+- BDI Programming Languages
+
+## Professional Activities
+Part of the local organizing committee of [The 19th International Conference on Integrated Formal Methods](https://ifm2024.cs.manchester.ac.uk/) 2024.
+
+Part of the organizing committee of the [International Workshop on Formal Methods for Autonomous Systems](https://fmasworkshop.github.io/) 2024.
+
+Member of the [Autonomy and Verification Network](https://fmasworkshop.github.io/)
+
 
 ## Publications
 
@@ -20,6 +34,10 @@ I have a diverse background, holding a Bachelor's degree in Aeronautical Enginee
  components of mining dumpers. Results in Engineering, 100934. [Link](https://www.sciencedirect.com/science/article/pii/S2590123023000610)
 
 A good reference for engineers who intend to understand oil data and promote the development of lifetime models of components. The paper studies lifetime expectation of the main components of dumpers considering oil data. These lifetimes were analyzed by using the Cox proportional hazard model and a new robust version of the same model that is the main contribution of this work. The results show that robust version introduced has better performance than Cox classical model.
+
+- Benjumea, D. C. (2024, June). Formalising safety requirements for robotic autonomous systems in highly regulated domains. In 2024 IEEE 32nd International Requirements Engineering Conference (RE) (pp. 512-516). IEEE. [Link](https://doi.org/10.1109/RE59067.2024.00066)
+
+This paper presents a systematic approach to ensuring the safe operation of Robotic Autonomous Systems (RAS) in regulated environments, using the UK nuclear safety regime as a case study. By formalising functional safety requirements and integrating them into a rules-based Safety System, we demonstrate compliance with industry standards. A real-world application involving an inspection robot highlights the feasibility and importance of safety assurance across the RAS lifecycle. [Link to aditional material](https://dianabenjumea.github.io/RE/requirementsTable/)
 
 
 ## PhD Thesis
@@ -37,13 +55,14 @@ Supervisors: [Dr. Louise Dennis](https://personalpages.manchester.ac.uk/staff/lo
 “Development and evaluation of mathematical and epidemiological models that support decision-making in response to the emergency due to SARS- Cov-2 and other causative agents of ARI in Colombia using Data Analytics and Machine Learning” in collaboration with ALIANZA CAOBA, GIDITIC EAFIT research group and the Development Bank of Latin America (CAF).
 
 
-# Work experience
+## Teaching experience
 _Oct 2023 - Present_\
 **Graduate Teaching Assistant (GTA) • The University of Manchester • Manchester, UK**
-- Engaged in assisting with courses such as Algorithms and Data Structures, Software Engineering, Data Science, and Automated Reasoning and Verification.
+- Engaged in assisting with courses such as: Algorithms and Data Structures, Software Engineering, Data Science, and Automated Reasoning and Verification.
 - Providing support and guidance to students in understanding and performing tasks related to the course.
 - Evaluating and grading student work, including assignments, projects, and exams, to provide constructive feedback on their performance.
 
+## Work experience
 _Mar 2022 - Jul 2023_\
 **Software Developer • Steady Technologies, Inc • New York, USA**\
 Responsible to participate in the development of data pipelines and aggregation systems, including building of necessary data scrapers and integrations with a variety of service providers, vendors, and partners via API and ensuring that code adheres to data science and data engineering best practices.
@@ -80,14 +99,15 @@ Carrying out, write and implement risk assessments – Implement safety policies
 - Six-month internship involved designing the flight data analysis program at Viva Air, a Colombian low-cost airline.
 - Final year project: Conceptual and preliminary design of a commercial aircraft.
 
+## Awards
+_Aug 2024 – Mar 2025_\
+**[RAICo Junior Fellow](https://mailchi.mp/8b41ef8fd35f/0jijujdd5w?utm_source=RAICo+External&utm_campaign=70d4fa44c3-EMAIL_CAMPAIGN_2024_07_16_06_53_COPY_05&utm_medium=email&utm_term=0_-d718d2acf4-483314555)**
+
+My Fellowship is entitled "Autonomous System for use in UK Nuclear Environments". This work aims to demonstrate an AI-based autonomous robot safety architecture that works in compliance with the UK nuclear regulatory regime. This research has the potential to transform nuclear decommissioning practices, providing safer and more efficient solutions for some of the world’s most challenging environments.
+
 
 ## Get in Touch
 
 I'm always excited to connect with fellow developers, collaborate on exciting projects, and discuss all things related to web development, open source, and technology. You can find me on [LinkedIn](https://www.linkedin.com/in/diana-carolina-benjumea-hernandez-64b87313b/) for professional networking or reach out to me via [email](diana.benjumeahernandez@postgrad.manchester.ac.uk).
 
-## Current work
-**Formalising Safety Requirements for Robotic Autonomous Systems in Highly Regulated Domains**
-- Paper under review 
-- [Link to aditional material](https://dianabenjumea.github.io/RE/requirements/)
-- [Link to aditional material](https://dianabenjumea.github.io/RE/requirementsTable/)
 
