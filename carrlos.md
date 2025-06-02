@@ -4,8 +4,14 @@ title: "CARRLOS"
 permalink: /carrlos/
 ---
 
-<h1 align="center" style="font-size: 64px; color: #007ACC; font-weight: 800; margin-top: 20px;">CARRLOS</h1>
-<h2 align="center" style="font-size: 28px; color: #333;">Combining Autonomous Robotic Reasoning with Logical Oversight for Safety</h2>
+
+<h1 align="center" style="font-size: 120px; color: #007ACC; font-weight: 900; margin-top: 50px; margin-bottom: 10px;">
+  CARRLOS
+</h1>
+<h2 align="center" style="font-size: 28px; color: #333;">
+  Combining Autonomous Robotic Reasoning with Logical Oversight for Safety
+</h2>
+
 
 
 <p align="center">
