@@ -6,7 +6,7 @@ permalink: /carrlos/
 
 
 <div style="
-  background-image: url('/assets/img/background1.jpeg');
+  background-image: url('/assets/img/image_carrlos.png');
   background-size: cover;
   background-position: center;
   min-height: 300px;
@@ -62,11 +62,6 @@ Deploying autonomous robots in safety-critical environments demands architecture
 
 ## Our Mission
 Create robust, certifiable autonomy systems for robots operating in environments where failure is not an option.
-
-<div>
-  <img src="/assets/img/image_carrlos.png" alt="image_carrlos" width="50%" align="left"> 
-</div>
-
 
 
 ## Key Contributions
