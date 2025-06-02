@@ -8,7 +8,7 @@ permalink: /carrlos/
 
 
 <div style="
-  background-image: url('/assets/img/image_carrlos.png');
+  background-image: url('/assets/img/background1.jpeg');
   background-size: cover;
   background-position: center;
   height: 300px;
