@@ -5,34 +5,33 @@ permalink: /carrlos/
 ---
 
 
-
-
 <div style="
   background-image: url('/assets/img/background1.jpeg');
   background-size: cover;
   background-position: center;
-  height: 300px;
+  min-height: 300px;
+  padding: 40px 20px;
+  color: white;
+  text-align: center;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  text-align: center;
-  padding: 20px;
-  color: white;
 ">
 
-  <h1 align="center"
-    style="
-    font-size: 160px;
+  <h1 style="
+    font-size: 12vw;
     font-weight: 1000;
     margin: 0;
+    line-height: 1;
     text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.6);
   ">
     CARRLOS
   </h1>
 
   <h2 style="
-    font-size: 28px;
+    font-size: 4.5vw;
+    max-width: 90%;
     font-weight: 400;
     margin-top: 10px;
     text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
@@ -41,6 +40,7 @@ permalink: /carrlos/
   </h2>
 
 </div>
+
 
 
 
