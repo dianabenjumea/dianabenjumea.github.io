@@ -26,8 +26,10 @@ Deploying autonomous robots in safety-critical environments demands architecture
 Create robust, certifiable autonomy systems for robots operating in environments where failure is not an option.
 
 <div>
-  <img src="image_carrlos.png" alt="image_carrlos" width="50%" align="left">  
+  <img src="assets/img/image_carrlos.png" alt="image_carrlos" width="50%" align="left"> 
 </div>
+
+
 
 ## Key Contributions
 
@@ -46,6 +48,6 @@ Create robust, certifiable autonomy systems for robots operating in environments
 ## <span style="color:#5C2D91">Architecture Overview</span>
 
 <p align="center">
-  <img src="sistem_architecture.png" alt="sistem_architecture" width="80%">
+  <img src="assets/img/sistem_architecture.png" alt="architecture" width="80%">
 </p>
 
