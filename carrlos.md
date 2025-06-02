@@ -11,7 +11,7 @@ permalink: /carrlos/
   background-image: url('/assets/img/image_carrlos.png');
   background-size: cover;
   background-position: center;
-  height: 400px;
+  height: 300px;
   display: flex;
   flex-direction: column;
   justify-content: center;
