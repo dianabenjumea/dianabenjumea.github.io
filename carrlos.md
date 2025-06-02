@@ -31,16 +31,16 @@ Create robust, certifiable autonomy systems for robots operating in environments
 
 ## Key Contributions
 
-- 🧠 **Integrated Control + Safety Reasoning**  
+  **Integrated Control + Safety Reasoning**  
   A hybrid approach where autonomous decision-making is complemented by an independent safety reasoning layer.
 
-- 🔄 **Independent Safety & Control Modules**  
-  Clear separation ensures modularity and ease of certification.
+  **Independent Safety & Control Modules**  
+  Clear systems separation ensures modularity and fault isolation.
 
-- ✅ **Formal Verification**  
+  **Formal Verification**  
   The safety layer is formally verified, providing **strong safety guarantees**.
 
-- 🔍 **Transparent Architecture & Trust Framework**  
+  **Transparent Architecture & Trust Framework**  
   Methodologies that foster user trust through explainable decision-making and traceable behavior.
 
 ## <span style="color:#5C2D91">Architecture Overview</span>
