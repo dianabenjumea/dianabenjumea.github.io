@@ -5,12 +5,43 @@ permalink: /carrlos/
 ---
 
 
-<h1 align="center" style="font-size: 120px; color: #007ACC; font-weight: 900; margin-top: 50px; margin-bottom: 10px;">
-  CARRLOS
-</h1>
-<h2 align="center" style="font-size: 28px; color: #333;">
-  Combining Autonomous Robotic Reasoning with Logical Oversight for Safety
-</h2>
+
+
+<div style="
+  background-image: url('/assets/img/image_carrlos.png');
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+  color: white;
+">
+
+  <h1 align="center"
+    style="
+    font-size: 160px;
+    font-weight: 1000;
+    margin: 0;
+    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.6);
+  ">
+    CARRLOS
+  </h1>
+
+  <h2 style="
+    font-size: 28px;
+    font-weight: 400;
+    margin-top: 10px;
+    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
+  ">
+    Combining Autonomous Robotic Reasoning with Logical Oversight for Safety
+  </h2>
+
+</div>
+
 
 
 
