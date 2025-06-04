@@ -10,7 +10,11 @@ permalink: /Academic&ProfessionalEngagements/
 **Organized by:** The Centre for AI Fundamentals and the Centre for Robotics and AI — The University of Manchester  
 **Location:** University of Manchester  
 **Activity:** *Lightning Talk — “An Architecture for Autonomous Robots in Safety-Critical Domains”* (5 min)  
-[🔗 Download Presentation (AI-FunXRoboticsLiasonEvent.pptx)](files/presentations/AI-FunXRoboticsLiasonEvent.pptx)
+
+<iframe src="https://1drv.ms/p/c/638f023501b36e2f/IQQMiVLlFxKCTY53fCTpdYD3Acr7ziJAf9Yik_yMJllS5TI?em=2&wdAr=1.7777777777777777" 
+        width="100%" height="500px" frameborder="0" allowfullscreen>
+  This is a Microsoft Office presentation embedded with Office technology.
+</iframe>
 
 ---
 
