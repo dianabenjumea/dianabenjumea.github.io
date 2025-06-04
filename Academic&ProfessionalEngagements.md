@@ -30,6 +30,9 @@ permalink: /Academic&ProfessionalEngagements/
 **Organized by:** Robotics and AI Collaboration (RAICo)  
 **Location:** UK  
 **Activity:** *Poster — “Autonomous System for Use in UK Nuclear Environments”*  
-🖼️ *(Poster attachment not listed — add if available)*
+<iframe src="/events/RAICo - Poster.pdf" 
+        width="100%" height="600px" frameborder="0">
+  Your browser does not support PDFs. Please download the poster <a href="/events/RAICo - Poster.pdf">here</a>.
+</iframe>
 
 ---
