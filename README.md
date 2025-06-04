@@ -110,6 +110,6 @@ My Fellowship is entitled "Autonomous System for use in UK Nuclear Environments"
 
 I'm always excited to connect with fellow developers, collaborate on exciting projects, and discuss all things related to web development, open source, and technology. You can find me on [LinkedIn](https://www.linkedin.com/in/diana-carolina-benjumea-hernandez-64b87313b/) for professional networking or reach out to me via [email](diana.benjumeahernandez@postgrad.manchester.ac.uk).
 
-[CARRLOS](https://dianabenjumea.github.io/carrlos/)
+<!-- [CARRLOS](https://dianabenjumea.github.io/carrlos/) -->
 
 
