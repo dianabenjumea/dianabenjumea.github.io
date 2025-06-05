@@ -43,9 +43,8 @@ permalink: /Academic&ProfessionalEngagements/
 
   .responsive-pdf-container {
     height: 100px;
-    width: 50%;
-    margin-left: auto;
-    margin-right: auto;
+    transform: scale(0.8);
+    transform-origin: top left;
   }
 }
   
