@@ -107,7 +107,7 @@ permalink: /Academic&ProfessionalEngagements/
 
 ---
 
-### 10 Jul 2024 - Robotics Research Seminar
+### 10 Jul 2024 - Robotics Research Seminar (RRS)
 **Organized by:** The Centre for Robotics and AI — The University of Manchester  
 **Location:** The University of Manchester, Manchester, UK
 **Activity:** *Talk — “Robotic Autonomous Systems for Use in UK Nuclear Environments”*  
