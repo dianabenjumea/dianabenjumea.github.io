@@ -42,9 +42,9 @@ permalink: /Academic&ProfessionalEngagements/
   .responsive-pdf-container iframe {
     border: 0;
     transform-origin: top left;
-    transform: scale(0.25);
-    width: 400%;   /* 1 / 0.25 */
-    height: 400%;
+    transform: scale(0.22);
+    width: 454%;   /* 1 / 0.22 */
+    height: 454%;
     display: block;
 }
   
@@ -60,10 +60,11 @@ permalink: /Academic&ProfessionalEngagements/
 **Activity:** *Lightning Talk — “An Architecture for Autonomous Robots in Safety-Critical Domains”* (5 min)  
 
 <div class="responsive-iframe-container">
-  <iframe src="https://1drv.ms/p/c/638f023501b36e2f/IQQMiVLlFxKCTY53fCTpdYD3Acr7ziJAf9Yik_yMJllS5TI?em=2&amp;wdAr=1.7777777777777777" allowfullscreen>
+  <iframe src="https://1drv.ms/p/c/638f023501b36e2f/EQyJUuUXEoJNjnd8JOl1gPcB1GnRvOeEgU82Ybb9dY9F5g?e=bvOwgr" allowfullscreen>
     This is a Microsoft Office presentation embedded with Office technology.
   </iframe>
 </div>
+
 
 ---
 
