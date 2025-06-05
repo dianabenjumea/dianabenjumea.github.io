@@ -11,10 +11,11 @@ permalink: /Academic&ProfessionalEngagements/
 **Location:** University of Manchester  
 **Activity:** *Lightning Talk — “An Architecture for Autonomous Robots in Safety-Critical Domains”* (5 min)  
 
-<iframe src="https://1drv.ms/p/c/638f023501b36e2f/IQQMiVLlFxKCTY53fCTpdYD3Acr7ziJAf9Yik_yMJllS5TI?em=2&wdAr=1.7777777777777777" 
-        width="100%" height="500px" frameborder="0" allowfullscreen>
+<iframe src="https://1drv.ms/p/c/638f023501b36e2f/IQQMiVLlFxKCTY53fCTpdYD3Acr7ziJAf9Yik_yMJllS5TI?em=2&amp;wdAr=1.7777777777777777" 
+        width="100%" height="300px" frameborder="0" allowfullscreen>
   This is a Microsoft Office presentation embedded with Office technology.
 </iframe>
+
 
 ---
 
@@ -22,7 +23,12 @@ permalink: /Academic&ProfessionalEngagements/
 **Organized by:** Department of Computer Science — The University of Manchester  
 **Location:** University of Manchester  
 **Activity:** *Short Talk — “Instantiating an Architecture for Autonomous Robots in Highly Regulated Domains”* (15 min)  
-[🔗 Download Presentation (PGRSymposium2025.pptx)](files/presentations/PGRSymposium2025.pptx)
+
+<iframe src="https://1drv.ms/p/c/638f023501b36e2f/IQQqiEwFrGd7RZVLtyn11Wa3AePvH7VAFkiKfsqUECPd0FM?em=2&amp;wdAr=1.7777777777777777" 
+        width="100%" height="300px" frameborder="0">
+        This is a Microsoft Office presentation embedded with Office technology.
+</iframe>
+
 
 ---
 
@@ -31,7 +37,7 @@ permalink: /Academic&ProfessionalEngagements/
 **Location:** UK  
 **Activity:** *Poster — “Autonomous System for Use in UK Nuclear Environments”*  
 <iframe src="/events/RAICo - Poster.pdf" 
-        width="100%" height="600px" frameborder="0">
+        width="50%" height="300px" frameborder="0">
   Your browser does not support PDFs. Please download the poster <a href="/events/RAICo - Poster.pdf">here</a>.
 </iframe>
 
