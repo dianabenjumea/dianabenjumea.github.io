@@ -42,9 +42,9 @@ permalink: /Academic&ProfessionalEngagements/
   .responsive-pdf-container iframe {
     border: 0;
     transform-origin: top left;
-    transform: scale(0.24);
-    width: 416%;   /* 1 / 0.22 */
-    height: 416%;
+    transform: scale(0.25);
+    width: 400%;   /* 1 / 0.25 */
+    height: 400%;
     display: block;
 }
   
