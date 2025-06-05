@@ -5,24 +5,26 @@ permalink: /Academic&ProfessionalEngagements/
 ---
 
 <style>
-.responsive-iframe-container {
-  position: relative;
+.responsive-pdf-container {
   width: 100%;
-  padding-bottom: 56.25%; /* 16:9 aspect ratio */
-  height: 0;
-  overflow: hidden;
+  height: 600px; /* Default height for desktop */
   margin-bottom: 1rem;
 }
 
-.responsive-iframe-container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
+.responsive-pdf-container iframe {
   width: 100%;
   height: 100%;
   border: 0;
 }
+
+/* Adjust for mobile screens */
+@media (max-width: 600px) {
+  .responsive-pdf-container {
+    height: 400px; /* Reduced height for mobile */
+  }
+}
 </style>
+
 
 # Academic & Professional Engagements
 
@@ -57,11 +59,12 @@ permalink: /Academic&ProfessionalEngagements/
 **Location:** UK  
 **Activity:** *Poster — “Autonomous System for Use in UK Nuclear Environments”*  
 
-<div class="responsive-iframe-container" style="padding-bottom: 130%;">
+<div class="responsive-pdf-container">
   <iframe src="/events/RAICo - Poster.pdf">
     Your browser does not support PDFs. Please download the poster
     <a href="/events/RAICo - Poster.pdf">here</a>.
   </iframe>
 </div>
+
 
 ---
