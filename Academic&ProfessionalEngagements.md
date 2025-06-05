@@ -24,8 +24,6 @@ permalink: /Academic&ProfessionalEngagements/
   width: 100%;
   height: 500px; /* Desktop height */
   margin-bottom: 1rem;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .responsive-pdf-container iframe {
@@ -42,8 +40,8 @@ permalink: /Academic&ProfessionalEngagements/
   }
 
   .responsive-pdf-container {
-    height: 100px;
-    transform: scale(0.8);
+    height: 300px;
+    transform: scale(0.5);
     transform-origin: top left;
   }
 }
