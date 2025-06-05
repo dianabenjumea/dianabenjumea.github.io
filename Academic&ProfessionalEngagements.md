@@ -8,7 +8,7 @@ permalink: /Academic&ProfessionalEngagements/
 /* PPT iframe container */
 .responsive-iframe-container {
   width: 100%;
-  height: 300px;
+  height: 500px;
   margin-bottom: 1rem;
 }
 
@@ -16,6 +16,13 @@ permalink: /Academic&ProfessionalEngagements/
   width: 100%;
   height: 100%;
   border: 0;
+}
+
+/* Mobile adjustment for PPT */
+@media (max-width: 100%) {
+  .responsive-iframe-container {
+    height: 250px; /* Shrink on mobile */
+  }
 }
 
 /* PDF iframe container */
@@ -32,7 +39,7 @@ permalink: /Academic&ProfessionalEngagements/
 }
 
 /* Mobile adjustment for PDF */
-@media (max-width: 10%) {
+@media (max-width: 5%) {
   .responsive-pdf-container {
     height: 30px; /* Shrink on mobile */
   }
