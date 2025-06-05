@@ -70,7 +70,7 @@ _29 May 2025_\
 ---
 
 _08 May 2025_\
-**[Computer Science Postgraduate Research Symposium](https://personalpages.manchester.ac.uk/staff/ian.pratt/symposium/PGRsymposium.html)**\ 
+**[Computer Science Postgraduate Research Symposium](https://personalpages.manchester.ac.uk/staff/ian.pratt/symposium/PGRsymposium.html)**\
 **Organised by:** Department of Computer Science — The University of Manchester  
 **Location:** The University of Manchester, Manchester, UK   
 **Activity:** *Talk — “Instantiating an Architecture for Autonomous Robots in Highly Regulated Domains”* 
@@ -91,10 +91,10 @@ _23 Jan 2025_\
 
 <div class="responsive-pdf-container">
   <iframe src="/events/RAICo - Poster.pdf">
-    Your browser does not support PDFs. Please download the poster
-    <a href="/events/RAICo - Poster.pdf">here</a>.
   </iframe>
 </div>
+
+Your browser does not support PDFs. Please download the poster <a href="/events/RAICo - Poster.pdf">here</a>.
 
 ---
 
@@ -102,6 +102,12 @@ _04 Sep 2024_\
 **[Robotics Software Engineering 2024 (RES'24)](https://rsemeeting.github.io/rse2024/)**\
 **Location:** University of Bremen, Bremen, Germany  
 **Activity:** *Talk — “A Verifiable Architecture for Robotic Autonomous Systems in Critical Domains”*  
+
+
+<div class="responsive-iframe-container">
+  <iframe src="https://1drv.ms/p/c/638f023501b36e2f/IQRsBopXmTHGQ6mAY7QlwESJAY9Hj92vs7D3Vrj20Jm7QGY?em=2&amp;wdAr=1.7777777777777777">
+  </iframe>
+</div>
 
 ---
 
@@ -111,6 +117,13 @@ _13 Aug 2024_\
 **Location:** University of Bristol, Bristol, UK  
 **Activity:** *Talk — “What is my research about?”*  
 
+
+<div class="responsive-iframe-container">
+  <iframe src="https://1drv.ms/p/c/638f023501b36e2f/IQQtBJJxsnMiSLzVreOJF_fWAUj3FypAHaNuUunljtPECUE?em=2&amp;wdAr=1.7777777777777777">
+  </iframe>
+</div>
+
+
 ---
 
 _10 Jul 2024_\
@@ -119,6 +132,12 @@ _10 Jul 2024_\
 **Location:** The University of Manchester, Manchester, UK
 **Activity:** *Talk — “Robotic Autonomous Systems for Use in UK Nuclear Environments”*  
 
+<div class="responsive-iframe-container">
+  <iframe src="https://1drv.ms/p/c/638f023501b36e2f/IQQNXGKIzVdIT5oOP718Z8w7AbMtAgEyGzjmMFPDiHwNVKY?em=2&amp;wdAr=1.7777777777777777">
+  </iframe>
+</div>
+
+
 ---
 
 _25 Jun 2024_\
@@ -126,11 +145,17 @@ _25 Jun 2024_\
 **Location:** Reykjavik University, Reykjavik, Iceland  
 **Activity:** *Talk — Formalising Safety Requirements for Robotic Autonomous Systems in Highly Regulated Domains*  
 
+<div class="responsive-iframe-container">
+  <iframe src="https://1drv.ms/p/c/638f023501b36e2f/IQSUGaI6pgwbRqQy7U3tvzpbAWZV0H4Y_N83C7jAer896cQ?em=2&amp;wdAr=1.7777777777777777">
+  </iframe>
+</div>
+
+
 ---
 
 _10 Jun 2024_\
 **[Lorentz Center workshop - Engineering Reliable Autonomous Systems](https://www.lorentzcenter.nl/engineering-reliable-autonomous-systems.html)**\
-**Location:** Lorentz Center, Leiden, The Netherlands
+**Location:** Lorentz Center, Leiden, The Netherlands\
 **Activity:** *Poster — Nuclear Inspection Case Study*  
 
 ---
@@ -140,6 +165,12 @@ _21 May 2024_\
 **Organised by:** Robotics and AI Collaboration (RAICo)
 **Location:** Energus, Cumbria, UK\
 **Activity:** *Talk — “Robotic Autonomy in Nuclear Safety: Addressing Challenges and Solutions for Regulatory Compliance”*
+
+
+<div class="responsive-iframe-container">
+  <iframe src="https://1drv.ms/p/c/638f023501b36e2f/IQSRd_WHUgEdT5zgPKHHyYx6AfsEEVQBfwfg1-T_tC7YIVE?em=2&amp;wdAr=1.7777777777777777">
+  </iframe>
+</div>
 
 ---
 
