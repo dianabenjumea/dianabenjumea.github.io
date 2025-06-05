@@ -5,6 +5,20 @@ permalink: /Academic&ProfessionalEngagements/
 ---
 
 <style>
+/* PPT iframe container */
+.responsive-iframe-container {
+  width: 100%;
+  height: 300px;
+  margin-bottom: 1rem;
+}
+
+.responsive-iframe-container iframe {
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+/* PDF iframe container */
 .responsive-pdf-container {
   width: 100%;
   height: 600px; /* Desktop height */
@@ -17,15 +31,13 @@ permalink: /Academic&ProfessionalEngagements/
   border: 0;
 }
 
-/* For screens 600px wide or smaller */
+/* Mobile adjustment for PDF */
 @media (max-width: 600px) {
   .responsive-pdf-container {
-    height: 100px; /* Mobile height */
+    height: 100px; /* Shrink on mobile */
   }
 }
 </style>
-
-
 
 # Academic & Professional Engagements
 
@@ -66,6 +78,5 @@ permalink: /Academic&ProfessionalEngagements/
     <a href="/events/RAICo - Poster.pdf">here</a>.
   </iframe>
 </div>
-
 
 ---
