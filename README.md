@@ -28,6 +28,8 @@ Organizing Committee Member, [International Workshop on Formal Methods for Auton
 
 Local Organizing Committee Member, [The 19th International Conference on Integrated Formal Methods](https://ifm2024.cs.manchester.ac.uk/) 2024.
 
+Member, [IEEE P7009.1 Working Group](https://standards.ieee.org/ieee/7009.1/11850/) – Standard for Safety Management of Autonomous and Semi-Autonomous Systems: Interventions in the Event of Anomalous Behavior.
+
 Member, [Autonomy and Verification Network](https://fmasworkshop.github.io/)
 
 
