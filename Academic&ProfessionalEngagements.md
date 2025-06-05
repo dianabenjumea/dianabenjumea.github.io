@@ -8,7 +8,7 @@ permalink: /Academic&ProfessionalEngagements/
 /* PPT iframe container */
 .responsive-iframe-container {
   width: 100%;
-  height: 400px;
+  height: 300px;
   margin-bottom: 1rem;
 }
 
@@ -32,9 +32,9 @@ permalink: /Academic&ProfessionalEngagements/
 }
 
 /* Mobile adjustment for PDF */
-@media (max-width: 10px) {
+@media (max-width: 5px) {
   .responsive-pdf-container {
-    height: 50px; /* Shrink on mobile */
+    height: 30px; /* Shrink on mobile */
   }
 }
 </style>
