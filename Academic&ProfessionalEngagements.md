@@ -57,6 +57,11 @@ permalink: /Academic&ProfessionalEngagements/
 **Location:** UK  
 **Activity:** *Poster — “Autonomous System for Use in UK Nuclear Environments”*  
 
-<div class="responsive-iframe-container">
+<div class="responsive-iframe-container" style="padding-bottom: 130%;">
   <iframe src="/events/RAICo - Poster.pdf">
-    Your browser does not support PDFs. Please download the poster <a href="/e
+    Your browser does not support PDFs. Please download the poster
+    <a href="/events/RAICo - Poster.pdf">here</a>.
+  </iframe>
+</div>
+
+---
