@@ -63,7 +63,6 @@ _29 May 2025_\
 
 <div class="responsive-iframe-container">
   <iframe src="https://1drv.ms/p/c/638f023501b36e2f/IQQMiVLlFxKCTY53fCTpdYD3AePHsQ-VC2RCcCxrhy4PVzo?em=2&amp;wdAr=1.7777777777777777" allowfullscreen>
-    This is a Microsoft Office presentation embedded with Office technology.
   </iframe>
 </div>
 
@@ -157,6 +156,13 @@ _10 Jun 2024_\
 **[Lorentz Center workshop - Engineering Reliable Autonomous Systems](https://www.lorentzcenter.nl/engineering-reliable-autonomous-systems.html)**\
 **Location:** Lorentz Center, Leiden, The Netherlands\
 **Activity:** *Poster — Nuclear Inspection Case Study*  
+
+<div class="responsive-pdf-container">
+  <iframe src="/events/Lorentz_Center_poster.pdf">
+  </iframe>
+</div>
+
+Your browser does not support PDFs. Please download the poster <a href="/events/Lorentz_Center_poster.pdf">here</a>.
 
 ---
 
