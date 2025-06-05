@@ -39,14 +39,13 @@ permalink: /Academic&ProfessionalEngagements/
     height: 250px; /* Smaller PPT iframe on mobile */
   }
 
-  .responsive-pdf-container {
-    height: 300px; /* smaller height on mobile */
-  }
   .responsive-pdf-container iframe {
+    border: 0;
+    transform-origin: top left;
     transform: scale(0.25);
-    width: 400%;    /* 1 / 0.25 = 4 */
+    width: 400%;   /* 1 / 0.25 */
     height: 400%;
-  }
+    display: block;
 }
   
 </style>
