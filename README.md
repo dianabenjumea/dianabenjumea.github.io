@@ -21,11 +21,14 @@ I have a diverse background, holding a Bachelor's degree in Aeronautical Enginee
 - BDI Programming Languages
 
 ## Professional Activities
-Part of the local organizing committee of [The 19th International Conference on Integrated Formal Methods](https://ifm2024.cs.manchester.ac.uk/) 2024.
 
-Part of the organizing committee of the [International Workshop on Formal Methods for Autonomous Systems](https://fmasworkshop.github.io/) 2024.
+PC Member, [8th Workshop on Verification and Monitoring at Runtime Execution (VORTEX)](https://2025.ecoop.org/home/vortex-2025) 2025.
 
-Member of the [Autonomy and Verification Network](https://fmasworkshop.github.io/)
+Organizing Committee Member, [International Workshop on Formal Methods for Autonomous Systems](https://fmasworkshop.github.io/) 2024 -- 2025.
+
+Local Organizing Committee Member, [The 19th International Conference on Integrated Formal Methods](https://ifm2024.cs.manchester.ac.uk/) 2024.
+
+Member, [Autonomy and Verification Network](https://fmasworkshop.github.io/)
 
 
 ## Publications
