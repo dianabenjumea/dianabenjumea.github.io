@@ -18,18 +18,14 @@ permalink: /Academic&ProfessionalEngagements/
   border: 0;
 }
 
-/* Mobile adjustment for PPT */
-@media (max-width: 100%) {
-  .responsive-iframe-container {
-    height: 250px; /* Shrink on mobile */
-  }
-}
 
 /* PDF iframe container */
 .responsive-pdf-container {
   width: 100%;
   height: 500px; /* Desktop height */
   margin-bottom: 1rem;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .responsive-pdf-container iframe {
@@ -38,13 +34,24 @@ permalink: /Academic&ProfessionalEngagements/
   border: 0;
 }
 
-/* Mobile adjustment for PDF */
-@media (max-width: 5%) {
+
+/* Mobile adjustments (for screen widths 600px or less) */
+@media (max-width: 600px) {
+  .responsive-iframe-container {
+    height: 250px; /* Smaller PPT iframe on mobile */
+  }
+
   .responsive-pdf-container {
-    height: 30px; /* Shrink on mobile */
+    height: 100px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
+  
 </style>
+
+
 
 # Academic & Professional Engagements
 
