@@ -40,8 +40,12 @@ permalink: /Academic&ProfessionalEngagements/
   }
 
   .responsive-pdf-container {
+    height: 300px; /* smaller height on mobile */
+  }
+  .responsive-pdf-container iframe {
     transform: scale(0.25);
-    transform-origin: top left;
+    width: 400%;    /* 1 / 0.25 = 4 */
+    height: 400%;
   }
 }
   
