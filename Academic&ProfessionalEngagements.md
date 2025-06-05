@@ -21,7 +21,7 @@ permalink: /Academic&ProfessionalEngagements/
 /* PDF iframe container */
 .responsive-pdf-container {
   width: 100%;
-  height: 400px; /* Desktop height */
+  height: 500px; /* Desktop height */
   margin-bottom: 1rem;
 }
 
@@ -34,7 +34,7 @@ permalink: /Academic&ProfessionalEngagements/
 /* Mobile adjustment for PDF */
 @media (max-width: 10px) {
   .responsive-pdf-container {
-    height: 100px; /* Shrink on mobile */
+    height: 50px; /* Shrink on mobile */
   }
 }
 </style>
