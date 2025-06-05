@@ -100,7 +100,7 @@ permalink: /Academic&ProfessionalEngagements/
 
 ---
 
-### 13 Aug 2024 - [VeTSS Summer School 2024]([https://rsemeeting.github.io/rse2024/](https://wp.doc.ic.ac.uk/vss24/#:~:text=Welcome%20to%20the%202024%20VeTSS,to%20Thursday%2015th%20August%202024.))
+### 13 Aug 2024 - [VeTSS Summer School 2024](https://wp.doc.ic.ac.uk/vss24/#:~:text=Welcome%20to%20the%202024%20VeTSS,to%20Thursday%2015th%20August%202024.)
 **Organized by:** The Research Institute on Verified Trustworthy Software Systems (VeTSS)  
 **Location:** University of Bristol, Bristol, UK  
 **Activity:** *Talk — “What is my research about?”*  
