@@ -7,7 +7,7 @@ permalink: /Academic&ProfessionalEngagements/
 <style>
 .responsive-pdf-container {
   width: 100%;
-  height: 600px; /* Default height for desktop */
+  height: 600px; /* Desktop height */
   margin-bottom: 1rem;
 }
 
@@ -17,13 +17,14 @@ permalink: /Academic&ProfessionalEngagements/
   border: 0;
 }
 
-/* Adjust for mobile screens */
+/* For screens 600px wide or smaller */
 @media (max-width: 600px) {
   .responsive-pdf-container {
-    height: 400px; /* Reduced height for mobile */
+    height: 100px; /* Mobile height */
   }
 }
 </style>
+
 
 
 # Academic & Professional Engagements
