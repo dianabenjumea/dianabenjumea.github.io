@@ -32,7 +32,7 @@ permalink: /Academic&ProfessionalEngagements/
 }
 
 /* Mobile adjustment for PDF */
-@media (max-width: 100px) {
+@media (max-width: 30px) {
   .responsive-pdf-container {
     height: 100px; /* Shrink on mobile */
   }
