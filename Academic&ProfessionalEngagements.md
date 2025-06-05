@@ -8,7 +8,7 @@ permalink: /Academic&ProfessionalEngagements/
 /* PPT iframe container */
 .responsive-iframe-container {
   width: 100%;
-  height: 300px;
+  height: 400px;
   margin-bottom: 1rem;
 }
 
@@ -21,7 +21,7 @@ permalink: /Academic&ProfessionalEngagements/
 /* PDF iframe container */
 .responsive-pdf-container {
   width: 100%;
-  height: 600px; /* Desktop height */
+  height: 400px; /* Desktop height */
   margin-bottom: 1rem;
 }
 
