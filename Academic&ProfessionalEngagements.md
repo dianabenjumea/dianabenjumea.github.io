@@ -56,7 +56,7 @@ permalink: /Academic&ProfessionalEngagements/
 
 
 _29 May 2025_
-<h3 id="aifun2025">AI-Fun x Robotics Liaison Event</h3>
+<h3 id="AIfun25">AI-Fun x Robotics Liaison Event</h3>
 **Organised by:** The Centre for AI Fundamentals and the Centre for Robotics and AI — The University of Manchester  
 **Location:** University of Manchester, Manchester, UK  
 **Activity:** *Talk — “An Architecture for Autonomous Robots in Safety-Critical Domains”* 
@@ -68,8 +68,13 @@ _29 May 2025_
 
 ---
 
-_08 May 2025_\
-**[Computer Science Postgraduate Research Symposium](https://personalpages.manchester.ac.uk/staff/ian.pratt/symposium/PGRsymposium.html)**\
+_08 May 2025_
+<h3 id="PGRSymposium25">
+  <a href="https://personalpages.manchester.ac.uk/staff/ian.pratt/symposium/PGRsymposium.html">
+    Computer Science Postgraduate Research Symposium
+  </a>
+</h3>
+
 **Organised by:** Department of Computer Science — The University of Manchester  
 **Location:** The University of Manchester, Manchester, UK   
 **Activity:** *Talk — “Instantiating an Architecture for Autonomous Robots in Highly Regulated Domains”* 
@@ -82,8 +87,13 @@ _08 May 2025_\
 
 ---
 
-_23 Jan 2025_\
-**[RAICo showcases ‘the art of the possible’ at robotics and AI open day](https://raico.org/raico-showcases-the-art-of-the-possible-at-robotics-and-ai-open-day/)**\
+_23 Jan 2025_
+<h3 id="RAICoShowcase">
+  <a href="https://raico.org/raico-showcases-the-art-of-the-possible-at-robotics-and-ai-open-day/">
+    RAICo showcases ‘the art of the possible’ at robotics and AI open day
+  </a>
+</h3>
+
 **Organised by:** Robotics and AI Collaboration (RAICo)  
 **Location:** Whitehaven, UK  
 **Activity:** *Poster — “Autonomous System for Use in UK Nuclear Environments”*  
@@ -97,8 +107,13 @@ Your browser does not support PDFs. Please download the poster <a href="/events/
 
 ---
 
-_04 Sep 2024_\
-**[Robotics Software Engineering 2024 (RES'24)](https://rsemeeting.github.io/rse2024/)**\
+_04 Sep 2024_
+<h3 id="rse24">
+  <a href="https://rsemeeting.github.io/rse2024/">
+    Robotics Software Engineering 2024 (RSE'24)
+  </a>
+</h3>
+
 **Location:** University of Bremen, Bremen, Germany  
 **Activity:** *Talk — “A Verifiable Architecture for Robotic Autonomous Systems in Critical Domains”*  
 
@@ -110,8 +125,13 @@ _04 Sep 2024_\
 
 ---
 
-_13 Aug 2024_\
-**[VeTSS Summer School 2024](https://wp.doc.ic.ac.uk/vss24/#:~:text=Welcome%20to%20the%202024%20VeTSS,to%20Thursday%2015th%20August%202024.)**\
+_13 Aug 2024_
+<h3 id="VeTTS24">
+  <a href="https://wp.doc.ic.ac.uk/vss24/#:~:text=Welcome%20to%20the%202024%20VeTSS,to%20Thursday%2015th%20August%202024.">
+    VeTSS Summer School 2024
+  </a>
+</h3>
+
 **Organised by:** The Research Institute on Verified Trustworthy Software Systems (VeTSS)  
 **Location:** University of Bristol, Bristol, UK  
 **Activity:** *Talk — “What is my research about?”*  
@@ -125,8 +145,10 @@ _13 Aug 2024_\
 
 ---
 
-_10 Jul 2024_\
-**Robotics Research Seminar (RRS)**\
+_10 Jul 2024_
+
+<h3 id="RRS24">Robotics Research Seminar (RRS)</h3>
+
 **Organised by:** The Centre for Robotics and AI — The University of Manchester  
 **Location:** The University of Manchester, Manchester, UK
 **Activity:** *Talk — “Robotic Autonomous Systems for Use in UK Nuclear Environments”*  
@@ -139,8 +161,13 @@ _10 Jul 2024_\
 
 ---
 
-_25 Jun 2024_\
-**[32nd IEEE International Requirements Engineering 2024 Conference(RE'24)](https://conf.researchr.org/details/RE-2024/RE-2024-doctoral-symposium/1/Formalising-Safety-Requirements-for-Robotic-Autonomous-Systems-in-Highly-Regulated-Do)**\
+_25 Jun 2024_
+<h3 id="RE24">
+  <a href="https://conf.researchr.org/details/RE-2024/RE-2024-doctoral-symposium/1/Formalising-Safety-Requirements-for-Robotic-Autonomous-Systems-in-Highly-Regulated-Do">
+    32nd IEEE International Requirements Engineering 2024 Conference(RE'24)
+  </a>
+</h3>
+
 **Location:** Reykjavik University, Reykjavik, Iceland  
 **Activity:** *Talk — Formalising Safety Requirements for Robotic Autonomous Systems in Highly Regulated Domains*  
 
@@ -152,8 +179,13 @@ _25 Jun 2024_\
 
 ---
 
-_10 Jun 2024_\
-**[Lorentz Center workshop - Engineering Reliable Autonomous Systems](https://www.lorentzcenter.nl/engineering-reliable-autonomous-systems.html)**\
+_10 Jun 2024_
+<h3 id="LorentzCenter24">
+  <a href="https://www.lorentzcenter.nl/engineering-reliable-autonomous-systems.html">
+    Lorentz Center workshop - Engineering Reliable Autonomous Systems
+  </a>
+</h3>
+
 **Location:** Lorentz Center, Leiden, The Netherlands\
 **Activity:** *Poster — Nuclear Inspection Case Study*  
 
@@ -166,8 +198,13 @@ Your browser does not support PDFs. Please download the poster <a href="/events/
 
 ---
 
-_21 May 2024_\
-**[RAIEnergus 2024: Harnessing Robotics and AI in Challenging Environments](https://www.linkedin.com/posts/raicouk_raienergus2024-rai-robotics-ugcPost-7198677338455195648-Rndj?utm_source=share&utm_medium=member_desktop&rcm=ACoAACIfHtsB14RENa2Crvlg_Rmsc7q20IQwC-o)**\
+_21 May 2024_
+<h3 id="RAIEnergus24">
+  <a href="https://www.linkedin.com/posts/raicouk_raienergus2024-rai-robotics-ugcPost-7198677338455195648-Rndj?utm_source=share&utm_medium=member_desktop&rcm=ACoAACIfHtsB14RENa2Crvlg_Rmsc7q20IQwC-o">
+    RAIEnergus 2024: Harnessing Robotics and AI in Challenging Environments
+  </a>
+</h3>
+
 **Organised by:** Robotics and AI Collaboration (RAICo)
 **Location:** Energus, Cumbria, UK\
 **Activity:** *Talk — “Robotic Autonomy in Nuclear Safety: Addressing Challenges and Solutions for Regulatory Compliance”*
