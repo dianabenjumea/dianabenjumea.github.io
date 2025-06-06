@@ -56,7 +56,7 @@ permalink: /Academic&ProfessionalEngagements/
 
 
 _29 May 2025_\
-**AI-Fun x Robotics Liaison Event**\
+**<a name="aifun2025"></a>AI-Fun x Robotics Liaison Event**\
 **Organised by:** The Centre for AI Fundamentals and the Centre for Robotics and AI — The University of Manchester  
 **Location:** University of Manchester, Manchester, UK  
 **Activity:** *Talk — “An Architecture for Autonomous Robots in Safety-Critical Domains”* 
