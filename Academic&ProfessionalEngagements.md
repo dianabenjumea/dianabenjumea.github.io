@@ -55,8 +55,8 @@ permalink: /Academic&ProfessionalEngagements/
 ## Academic & Professional Engagements
 
 
-_29 May 2025_\
-**<a name="aifun2025"></a>AI-Fun x Robotics Liaison Event**\
+_29 May 2025_
+<h3 id="aifun2025">AI-Fun x Robotics Liaison Event</h3>
 **Organised by:** The Centre for AI Fundamentals and the Centre for Robotics and AI — The University of Manchester  
 **Location:** University of Manchester, Manchester, UK  
 **Activity:** *Talk — “An Architecture for Autonomous Robots in Safety-Critical Domains”* 
