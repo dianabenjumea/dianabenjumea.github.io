@@ -1,7 +1,7 @@
 # Diana Carolina Benjumea Hernández
 
 <div>
-  <img src="photo1.jpeg" alt="Profile Image" width="300" align="left">  
+  <img src="photo1.jpeg" alt="Profile Image" width="350" align="left">  
 </div>
 
 **PhD Computer Science Student**    
