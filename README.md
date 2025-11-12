@@ -1,7 +1,7 @@
 # Diana Carolina Benjumea Hernández
 
 <div>
-  <img src="FOTO 4.jpg" alt="Profile Image" width="150" align="left">  
+  <img src="photo1.jpeg" alt="Profile Image" width="300" align="left">  
 </div>
 
 **PhD Computer Science Student**    
@@ -35,14 +35,22 @@ Member, [Autonomy and Verification Network](https://fmasworkshop.github.io/)
 
 ## Publications
 
+- Benjumea Hernandez, D., Farrell, M., & Dennis, L. (in press). Safe-ROS: An Architecture for Autonomous Robots
+in Safety-Critical Domains. In International Workshop on Formal Methods for Autonomous Systems EPTCS. [Pre-print](https://research.manchester.ac.uk/en/publications/safe-ros-an-architecture-for-autonomous-robots-in-safety-critical/) and [related poster](events/iFM'25_Poster.pdf).
+
+- Benjumea, D. C. (2024, June). Formalising safety requirements for robotic autonomous systems in highly regulated domains. In 2024 IEEE 32nd International Requirements Engineering Conference (RE) (pp. 512-516). IEEE. [Paper](https://doi.org/10.1109/RE59067.2024.00066) and [link to aditional material](https://dianabenjumea.github.io/RE/requirementsTable/)
+
+<!---
+This paper presents a systematic approach to ensuring the safe operation of Robotic Autonomous Systems (RAS) in regulated environments, using the UK nuclear safety regime as a case study. By formalising functional safety requirements and integrating them into a rules-based Safety System, we demonstrate compliance with industry standards. A real-world application involving an inspection robot highlights the feasibility and importance of safety assurance across the RAS lifecycle.
+-->
+
+ 
 - Benjumea, D. C., Laniado, H., & Combita, O. (2023). Analytical model to monitor the oil conditions on the main
- components of mining dumpers. Results in Engineering, 100934. [Link](https://www.sciencedirect.com/science/article/pii/S2590123023000610)
+ components of mining dumpers. Results in Engineering, 100934. [Paper](https://www.sciencedirect.com/science/article/pii/S2590123023000610)
 
+<!---
 A good reference for engineers who intend to understand oil data and promote the development of lifetime models of components. The paper studies lifetime expectation of the main components of dumpers considering oil data. These lifetimes were analyzed by using the Cox proportional hazard model and a new robust version of the same model that is the main contribution of this work. The results show that robust version introduced has better performance than Cox classical model.
-
-- Benjumea, D. C. (2024, June). Formalising safety requirements for robotic autonomous systems in highly regulated domains. In 2024 IEEE 32nd International Requirements Engineering Conference (RE) (pp. 512-516). IEEE. [Link](https://doi.org/10.1109/RE59067.2024.00066)
-
-This paper presents a systematic approach to ensuring the safe operation of Robotic Autonomous Systems (RAS) in regulated environments, using the UK nuclear safety regime as a case study. By formalising functional safety requirements and integrating them into a rules-based Safety System, we demonstrate compliance with industry standards. A real-world application involving an inspection robot highlights the feasibility and importance of safety assurance across the RAS lifecycle. [Link to aditional material](https://dianabenjumea.github.io/RE/requirementsTable/)
+-->
 
 
 ## PhD Thesis
@@ -58,6 +66,9 @@ Supervisors: [Dr. Louise Dennis](https://personalpages.manchester.ac.uk/staff/lo
 **Data Scientist • CAF – Development Bank of Latin America**: Participation as a Data Scientist in Manos a la Data project - Colombia: CAF’s project to promote the use of analytical methodologies and tools in LATAM by public sector entities.
 
 “Development and evaluation of mathematical and epidemiological models that support decision-making in response to the emergency due to SARS- Cov-2 and other causative agents of ARI in Colombia using Data Analytics and Machine Learning” in collaboration with ALIANZA CAOBA, GIDITIC EAFIT research group and the Development Bank of Latin America (CAF).
+
+**Working group contributor**, Chapter 3.2: Project on updating the Origin–destination matrix estimation for
+road freight transport, (pages 129–134). [Technical Report](https://scioteca.caf.com/handle/123456789/1776)
 
 
 ## Teaching experience
